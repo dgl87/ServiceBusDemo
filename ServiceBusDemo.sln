@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSender", "SBSender\SBSender.csproj", "{E1D83F46-8A4A-4862-BC8D-680B429A15BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBShared", "SBShared\SBShared.csproj", "{FC90E801-01B9-4A6D-9EBF-EF50C471C36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBReceiver", "SBReceiver\SBReceiver.csproj", "{41772C69-70F9-434D-B9DD-EF16828309BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1D83F46-8A4A-4862-BC8D-680B429A15BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D83F46-8A4A-4862-BC8D-680B429A15BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D83F46-8A4A-4862-BC8D-680B429A15BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D83F46-8A4A-4862-BC8D-680B429A15BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC90E801-01B9-4A6D-9EBF-EF50C471C36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC90E801-01B9-4A6D-9EBF-EF50C471C36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC90E801-01B9-4A6D-9EBF-EF50C471C36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC90E801-01B9-4A6D-9EBF-EF50C471C36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41772C69-70F9-434D-B9DD-EF16828309BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41772C69-70F9-434D-B9DD-EF16828309BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41772C69-70F9-434D-B9DD-EF16828309BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41772C69-70F9-434D-B9DD-EF16828309BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {672FAE09-8452-411C-93D9-C7194091040A}
+	EndGlobalSection
+EndGlobal

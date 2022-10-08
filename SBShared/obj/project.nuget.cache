@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FtdbH/X8LG/o85pS62bHc/E+x3+wDpN9m53AER31L4IQm5DziiIP7gvDam7uE+cAeXrTZcfeyJobYta32h9sxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dglan\\OneDrive\\Área de Trabalho\\DGLZ\\ServiceBusDemo\\ServiceBusDemo\\SBShared\\SBShared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dglan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dglan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
