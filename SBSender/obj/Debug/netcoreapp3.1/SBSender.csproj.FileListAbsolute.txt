@@ -48,3 +48,16 @@ C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBS
 C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\obj\Debug\netcoreapp3.1\SBSender.pdb
 C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\obj\Debug\netcoreapp3.1\SBSender.genruntimeconfig.cache
 C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\obj\Debug\netcoreapp3.1\SBSender.csproj.CopyComplete
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\SBShared.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBSender\bin\Debug\netcoreapp3.1\SBShared.pdb

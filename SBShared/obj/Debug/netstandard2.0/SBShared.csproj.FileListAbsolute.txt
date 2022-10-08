@@ -1,0 +1,10 @@
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBShared\bin\Debug\netstandard2.0\SBShared.deps.json
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBShared\bin\Debug\netstandard2.0\SBShared.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBShared\bin\Debug\netstandard2.0\SBShared.pdb
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBShared\obj\Debug\netstandard2.0\SBShared.csproj.AssemblyReference.cache
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBShared\obj\Debug\netstandard2.0\SBShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBShared\obj\Debug\netstandard2.0\SBShared.AssemblyInfoInputs.cache
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBShared\obj\Debug\netstandard2.0\SBShared.AssemblyInfo.cs
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBShared\obj\Debug\netstandard2.0\SBShared.csproj.CoreCompileInputs.cache
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBShared\obj\Debug\netstandard2.0\SBShared.dll
+C:\Users\dglan\OneDrive\Área de Trabalho\DGLZ\ServiceBusDemo\ServiceBusDemo\SBShared\obj\Debug\netstandard2.0\SBShared.pdb
